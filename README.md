@@ -3,8 +3,6 @@
 
 <h2 align="center">🌟 Mohinur Mahkamova | 🚀 Python Developer & Cybersecurity Enthusiast </h2>
 
-<h2 align="center">🔥 Always Learning, Always Growing 🔥 </h2>
-
   📍 About Me
 - 💻 Backend Developer | Cybersecurity Explorer  
 - 🌱 Hozirda Python, SQL va DataBase ustida ishlayapman  
