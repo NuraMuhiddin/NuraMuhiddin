@@ -1,12 +1,16 @@
 <!-- Fancy Banner -->
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:ffafbd,100:ffc3a0&height=150&section=header&text=👋%20Salom!%20Men%20Mohinur&fontSize=35&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:ffafbd,100:ffc3a0&height=200&section=header&text=Assalomu%20Alaykum!%20👋&fontSize=40&fontColor=fff)
 
-<h2 align="center">Backend Developer | Cybersecurity Enthusiast 🚀</h2>
+<h2 align="center"># 🌟 Mohinur Mahkamova | 🚀 Python Developer & Cybersecurity Enthusiast  
+
+🔥 *Always Learning, Always Growing* 🔥</h2>
 
 <p align="center">
-🌱 Hozirda Python & SQL, DataBase ustida ishlayapman  
-🎯 Maqsadim: Ethical Hacking va Backend bo‘yicha mutaxassis bo‘lish  
-🚀 Loyihalar: Milliy Taomlar 🍲 | O‘quv Markazi 🎓
+## 📍 About Me
+- 💻 Backend Developer | Cybersecurity Explorer  
+- 🌱 Hozirda **Python** va **SQL**, **DataBase** ustida ishlayapman  
+- 🚀 Loyihalar: **Milliy taomlar** 🍲 va **O‘quv markazi** 🎓  
+- 🎯 Maqsad: **White Hat Hacker** va **Backend** bo‘yicha mutaxassis bo‘lish 
 </p>
 
 ---
@@ -19,18 +23,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 📊 Statistikam
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuramuhiddin7&show_icons=true&theme=vue-dark" alt="stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuramuhiddin7&theme=vue-dark" alt="streak"/>
 </p>
 
 ---
@@ -54,9 +46,9 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nuramuhiddin7" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nuramuhiddin" alt="visitors"/>
 </p>
 
 ---
 
-💡 *Profilimni ko‘rganingiz uchun rahmat!*
+⭐️ Profilimga tashrif buyurganingiz uchun rahmat!
