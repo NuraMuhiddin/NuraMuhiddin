@@ -39,21 +39,9 @@
 
 ---
 
- 🌐 Bog‘lanish Uchun
-
-<br><br>
-
-<a href="https://t.me/nuramuhiddin7">
-<img src="https://img.shields.io/badge/💬_Telegram-4FACFE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=667eea" />
-</a>
-<a href="mailto:mohinurmahkamova701@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-00F2FE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=667eea" />
-</a>
-<a href="https://github.com/NuraMuhiddin">
-<img src="https://img.shields.io/badge/🐙_GitHub-764ba2?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea" />
-</a>
-
-<br><br>
+ 📫 Bog‘lanish
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nuramuhiddin7)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohinurmahkamova701@gmail.com)
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nuramuhiddin7" alt="visitors"/>
 </p>
