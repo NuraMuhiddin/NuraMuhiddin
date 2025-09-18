@@ -1,12 +1,11 @@
 <!-- Fancy Banner -->
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:gradient,100:ffc3a0&height=200&section=header&text=Assalomu%20Alaykum!%20👋&fontSize=40&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:gradient,100:ffc3a0&height=200&section=header&text=Assalomu%20Alaykum!%20🤝🏽&fontSize=40&fontColor=fff)
 
-<h2 align="center">🌟 Mohinur Mahkamova | 🚀 Python Developer & Cybersecurity Enthusiast </h2>
+<h2 align="center">🌟 Mohinur Mahkamova | 🚀 Python Developer & 👩🏽‍💻 Cybersecurity Enthusiast </h2>
 
   📍 About Me
 - 💻 Backend Developer | Cybersecurity Explorer  
-- 🌱 Hozirda Python, SQL va DataBase ustida ishlayapman  
-- 🚀 Loyihalar: Milliy taomlar 🍲 va O‘quv markazi 🎓  
+- 🌱 Hozirda Python, SQL va DataBase ustida ishlayapman   
 - 🎯 Maqsad: White Hat Hacker va Backend bo‘yicha mutaxassis bo‘lish 
 
 ---
@@ -55,7 +54,6 @@
 </a>
 
 <br><br>
-
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nuramuhiddin7" alt="visitors"/>
 </p>
