@@ -1,12 +1,9 @@
 <!-- Fancy Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:ffafbd,100:ffc3a0&height=200&section=header&text=Assalomu%20Alaykum!%20👋&fontSize=40&fontColor=fff)
 
-<h2 align="center">🌟 Mohinur Mahkamova | 🚀 Python Developer & Cybersecurity Enthusiast  
+<h2 align="center">🌟 Mohinur Mahkamova | 🚀 Python Developer & Cybersecurity Enthusiast </h2>
 
-
-
-
-🔥 Always Learning, Always Growing 🔥</h2>
+<h2 align="center">🔥 Always Learning, Always Growing 🔥 </h2>
 
   📍 About Me
 - 💻 Backend Developer | Cybersecurity Explorer  
