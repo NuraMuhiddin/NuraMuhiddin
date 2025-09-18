@@ -1,40 +1,39 @@
 <!-- Fancy Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:ffafbd,100:ffc3a0&height=200&section=header&text=Assalomu%20Alaykum!%20👋&fontSize=40&fontColor=fff)
 
-<h2 align="center"># 🌟 Mohinur Mahkamova | 🚀 Python Developer & Cybersecurity Enthusiast  
+<h2 align="center">🌟 Mohinur Mahkamova | 🚀 Python Developer & Cybersecurity Enthusiast  
 
-🔥 *Always Learning, Always Growing* 🔥</h2>
+🔥 Always Learning, Always Growing 🔥</h2>
 
 <p align="center">
-## 📍 About Me
+  📍 About Me
 - 💻 Backend Developer | Cybersecurity Explorer  
-- 🌱 Hozirda **Python** va **SQL**, **DataBase** ustida ishlayapman  
-- 🚀 Loyihalar: **Milliy taomlar** 🍲 va **O‘quv markazi** 🎓  
-- 🎯 Maqsad: **White Hat Hacker** va **Backend** bo‘yicha mutaxassis bo‘lish 
+- 🌱 Hozirda Python, SQL va DataBase ustida ishlayapman  
+- 🚀 Loyihalar: Milliy taomlar 🍲 va O‘quv markazi 🎓  
+- 🎯 Maqsad: White Hat Hacker va Backend bo‘yicha mutaxassis bo‘lish 
 </p>
 
 ---
 
-### 🛠️ Biladigan Texnologiyalarim
+ 🛠️ Biladigan Texnologiyalarim
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📌 Mening Eng Yaxshi Loyihalarim
-- 📝 **Milliy Taomlar** – Taomlar menyusi, narx bo‘yicha qidirish va statistikalar
-- 🎓 **O‘quv Markazi** – Yo‘nalish, guruh va o‘quvchilarni boshqarish CRUD funksiyalari bilan
-- 🔐 **Cybersecurity Mashqlarim** – Ethical hacking yo‘nalishidagi kichik loyihalar
+ 📌 Mening Eng Yaxshi Loyihalarim
+- 📝 Milliy Taomlar – Taomlar menyusi, narx bo‘yicha qidirish va statistikalar
+- 🎓 O‘quv Markazi – Yo‘nalish, guruh va o‘quvchilarni boshqarish CRUD funksiyalari bilan
+- 🔐 Cybersecurity Mashqlarim – Ethical hacking yo‘nalishidagi kichik loyihalar
 
 ---
 
-### 🌐 Bog‘lanish Uchun
+ 🌐 Bog‘lanish Uchun
 
 <p align="center">
 <a href="https://t.me/nuramuhiddin7">
