@@ -5,13 +5,21 @@
 
 🔥 Always Learning, Always Growing 🔥</h2>
 
-<p align="center">
   📍 About Me
 - 💻 Backend Developer | Cybersecurity Explorer  
 - 🌱 Hozirda Python, SQL va DataBase ustida ishlayapman  
 - 🚀 Loyihalar: Milliy taomlar 🍲 va O‘quv markazi 🎓  
 - 🎯 Maqsad: White Hat Hacker va Backend bo‘yicha mutaxassis bo‘lish 
-</p>
+
+---
+
+ 🏆 Badges
+![Location](https://img.shields.io/badge/Fergana,%20Uzbekistan-008000?style=for-the-badge&logo=google-maps&logoColor=white)
+![Role](https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend%20Learner-ff5722?style=for-the-badge&logo=fastapi&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nuramuhiddin7)
 
 ---
 
@@ -45,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nuramuhiddin" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nuramuhiddin7" alt="visitors"/>
 </p>
 
 ---
