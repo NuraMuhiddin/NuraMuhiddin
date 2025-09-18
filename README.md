@@ -56,7 +56,7 @@
 
 <br><br>
 
-<p align="center">
+<p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nuramuhiddin7" alt="visitors"/>
 </p>
 
