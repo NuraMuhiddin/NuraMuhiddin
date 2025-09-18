@@ -3,6 +3,9 @@
 
 <h2 align="center">🌟 Mohinur Mahkamova | 🚀 Python Developer & Cybersecurity Enthusiast  
 
+
+
+
 🔥 Always Learning, Always Growing 🔥</h2>
 
   📍 About Me
@@ -14,6 +17,7 @@
 ---
 
  🏆 Badges
+ 
 ![Location](https://img.shields.io/badge/Fergana,%20Uzbekistan-008000?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Role](https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend%20Learner-ff5722?style=for-the-badge&logo=fastapi&logoColor=white)
